@@ -1,0 +1,2 @@
+vagrant package --base kitchen-dfdevm_nodeschool-dfdevm-nodeschool-box-cutter-VAGRANTSLASH-ubuntu1404-desktop_default_1441800045612_88176 --output ./box/dfdevm_nodeschool.box
+tar -cf ~/Downloads/dfdevm_nodeschool_vagrant.tar.gz  box makeVagrant.sh Vagrantfile README_HOW_TO_CREATE_VAGRANT.txt
